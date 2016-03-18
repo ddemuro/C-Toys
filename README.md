@@ -9,7 +9,8 @@ So I created a simple test application to test such conditions.
 _Precedence is important!_
 
 ## Speed Test
-*If test*
+*If test*:
+
 What's faster? using one if? or more than one if?... Check the results after compiling!.
 _one if... I swear lol!_
 
