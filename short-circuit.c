@@ -78,6 +78,7 @@ using namespace std;
          printf("Wrapme did evaluate: %d \n", wrapme);
      else
          printf("Wrapme did not evaluate: %d \n", wrapme);
+     delete wrapme;
 
      printf("A should be zero... but second statement is increment... so...! \n");
      int a = 0;
