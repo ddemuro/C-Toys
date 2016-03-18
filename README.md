@@ -9,6 +9,7 @@ So I created a simple test application to test such conditions.
 
 _How to compile:_
 g++ short-circuit.c
+
 _How to run:_
 ./a.out
 
